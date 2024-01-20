@@ -18,7 +18,7 @@
 #ifndef _VARIABLES_HEADER_
 #define _VARIABLES_HEADER_
 
-#define PB_MAIN_VERSION              "4.0"
+#define PB_MAIN_VERSION              "4.0 - SUFandom Modded for Galaxy A12s"
 #define PB_BUILD PB_MAIN_VERSION PB_MAIN_BUILD
 #define PB_DEVICE               PB_DEVICE_MODEL
 
